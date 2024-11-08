@@ -1,0 +1,42 @@
+body{
+    color:white;
+    background:rgb(68, 2, 97);
+
+
+
+}
+
+header{
+    border-bottom:solid 1px rgba(0, 0, 0, 0.986);
+    font-size: 50px;
+color:rgb(216, 1, 1)
+
+}
+
+iframe{
+
+}
+
+section{
+
+    background:rgba(92, 11, 31, 0.164);
+    width: 110%;
+    height: 400px;
+}
+
+.text-primary{
+
+    font-family: "Sour Gummy", sans-serif;
+
+}
+.outors-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+
+}
+
+
+
+
